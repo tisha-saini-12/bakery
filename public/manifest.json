@@ -1,0 +1,19 @@
+{
+  "name": "Bakery Commissary & POS Operations Platform",
+  "short_name": "Bakery POS",
+  "description": "Internal operations web app for central commissary, production, multi-store dispatch, and retail POS counter.",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#fafaf9",
+  "theme_color": "#1c1917",
+  "categories": ["business", "food", "productivity"],
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
